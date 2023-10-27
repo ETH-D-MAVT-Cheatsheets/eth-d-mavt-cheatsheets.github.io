@@ -6,6 +6,12 @@
 
 [Chemistry](https://github.com/ETH-D-MAVT-Cheatsheets/Chemistry_Norris_2022/releases/latest/download/Chemistry_Norris_2022.pdf)
 
+<object data="https://github.com/ETH-D-MAVT-Cheatsheets/Chemistry_Norris_2022/releases/latest/download/Chemistry_Norris_2022.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/ETH-D-MAVT-Cheatsheets/Chemistry_Norris_2022/releases/latest/download/Chemistry_Norris_2022.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/ETH-D-MAVT-Cheatsheets/Chemistry_Norris_2022/releases/latest/download/Chemistry_Norris_2022.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 [Lineare Algebra 1/2](https://github.com/ETH-D-MAVT-Cheatsheets/LineareAlgebra_Hungerbuehler_2023/releases/latest/download/LineareAlgebra_Hungerbuehler_2023.pdf)
 
 ## Semester 2
