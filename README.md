@@ -1,4 +1,4 @@
-# ETH D-MAVT Cheatsheets
+# ETHOS Cheatsheet Repository
 
 ## Semester 1
 
