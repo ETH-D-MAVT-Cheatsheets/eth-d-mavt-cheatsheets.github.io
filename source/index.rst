@@ -6,6 +6,20 @@
 Welcome to the ETHOS Cheatsheet Repository!
 ================================================
 
+.. raw:: html
+
+    <embed>
+      <!-- Google tag (gtag.js) -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-LQFKD4ZSEY"></script>
+      <script>
+         window.dataLayer = window.dataLayer || [];
+         function gtag(){dataLayer.push(arguments);}
+         gtag('js', new Date());
+
+         gtag('config', 'G-LQFKD4ZSEY');
+      </script>
+    </embed>
+
 .. toctree::
    :maxdepth: 1
    :caption: Semester 1:
