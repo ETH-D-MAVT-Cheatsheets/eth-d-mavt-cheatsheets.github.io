@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to the LaTeX Template Share!
+Welcome to the ETHOS Cheatsheet Repository!
 ================================================
 
 .. toctree::
@@ -13,6 +13,7 @@ Welcome to the LaTeX Template Share!
    MAVT/semester_1/analysis_1
    MAVT/semester_1/chemistry
    MAVT/semester_1/lineare_algebra_1
+   MAVT/semester_1/informatik_1
 
 
 .. toctree::
