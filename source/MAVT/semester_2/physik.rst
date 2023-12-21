@@ -1,4 +1,4 @@
 Physik
 ======
 
-- **cleser, nsendlhofer** (`Download <https://github.com/ETH-D-MAVT-Cheatsheets/Physik_Degiorgi_2023/releases/latest/download/Physik_Degiorgi_2023.pdf>`_) (`Source Code <https://github.com/ETH-D-MAVT-Cheatsheets/Physik_Degiorgi_2023>`_) (`Preview <https://github.com/ETHOS-Cheatsheets/Physik_Degiorgi_2023/blob/gha-build/main.pdf>`_)
+- **cleser, nsendlhofer** (`Download <https://github.com/ETHOS-Cheatsheets/Physik_Degiorgi_2023/releases/latest/download/Physik_Degiorgi_2023.pdf>`_) (`Source Code <https://github.com/ETHOS-Cheatsheets/Physik_Degiorgi_2023>`_) (`Preview <https://github.com/ETHOS-Cheatsheets/Physik_Degiorgi_2023/blob/gha-build/main.pdf>`_)
