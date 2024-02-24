@@ -1,6 +1,9 @@
 Welcome to the ETHOS Cheatsheet Repository!
 ================================================
 
+| Hier findest du eine Auswahl von Cheatsheets für dein Studium an der ETH. Dieses Projekt ist Teil des Vereins `ETHOS <https://ethos-edu.ch>`_ und wird von Studierenden für Studierende erstellt.
+| Falls du Fehler findest, oder Verbesserungsvorschläge hast, kannst du dich gerne direkt bei `uns <mailto:nsendlhofer@ethz.ch,dgehriger@ethz.ch,bmicha@ethz.ch?subject=[ETHOS%20%7C%20Cheatsheets]>`_ melden.
+
 .. raw:: html
 
     <embed>
