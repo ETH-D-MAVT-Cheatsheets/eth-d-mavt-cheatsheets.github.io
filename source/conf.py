@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'MAVT Cheatsheets'
-copyright = '2023, Noa Sendlhofer'
+copyright = '2024, Noa Sendlhofer'
 author = 'Noa Sendlhofer'
 
 # -- General configuration ---------------------------------------------------
